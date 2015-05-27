@@ -1,4 +1,6 @@
-# voice
-Voice Recognition !
+Ghost
+===============
 
-Recognizes the voice of the person and displays what he has just spoken.
+Ghost is an inanely popular two-player wordgame.
+
+to be updated...
